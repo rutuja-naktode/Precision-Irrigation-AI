@@ -1,3 +1,4 @@
+🚀 Live Demo: [Open Precision Irrigation AI](https://precision-irrigation-ai-9efmedfpxiv8mpyf8ytek4.streamlit.app/)
 # AI-Based Precision Irrigation Advisory System
 
 A Python-based machine learning project that helps farmers make informed irrigation decisions using soil moisture, crop details, and weather forecasts.
